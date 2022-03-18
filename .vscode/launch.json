@@ -5,10 +5,10 @@
 	"version": "0.2.0",
 	"configurations": [
 		{
-			"name": "Python: Flask",
+			"name": "Development",
 			"type": "python",
 			"request": "launch",
-			"module": "flaskr",
+			"module": "flask",
 			"env": {
 				"FLASK_APP": "flaskr",
 				"FLASK_ENV": "development"
